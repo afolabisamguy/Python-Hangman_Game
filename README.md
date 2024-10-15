@@ -51,12 +51,12 @@ Welcome to the Hangman CLI Game! This is a command-line version of the classic w
 ## Example Game
 
 ```
-Welcome to Hangman!
-_ _ _ _ _  (Guess the word)
-
-Guess a letter: e
-
-You guessed wrong!
+Welcome to sam's hangman Game
+You'll be given a random word, and you have to guess the letters in the word
+if you guess wrong your hangman diagram will be updated and you'll lose if the diagram is compleete
+You'll also have your incorrect guesses displayed to you to avoid undue repetitions
+- - - - -
+Enter Your Guess:
 ```
 
 If you make 6 incorrect guesses, the hangman will be fully drawn, and you'll lose:
