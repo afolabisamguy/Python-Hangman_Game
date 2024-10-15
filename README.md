@@ -22,7 +22,7 @@ Welcome to the Hangman CLI Game! This is a command-line version of the classic w
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/hangman-cli.git
+    git clone https://github.com/afolabisamguy/Python-Hangman_Game.git
     ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ Welcome to the Hangman CLI Game! This is a command-line version of the classic w
 ## Files
 
 - **main.py**: The main game script that runs the game.
-- **words.txt**: A text file containing a list of words used in the game.
+- **hangman.txt**: A text file containing a list of words used in the game.
 
 ## Example Game
 
